@@ -1,0 +1,7 @@
+{
+    "java.home": "C:\\path\\to\\your\\jdk",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
